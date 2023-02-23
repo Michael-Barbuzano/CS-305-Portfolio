@@ -6,4 +6,6 @@
   
   I think this project was a great way to get hands on experience with running Maven Dependency check reports and then writing up a vulnerability assessemtn report based on the findings.  After running the dependency check, each vulnerability that is detected can be selected to view severity, references, solutions, and tools concerned with each vulnerability, I found this very helpful for understanding each vulnerability and how it can be mitigated.
 
+  Although this project did not include refactoring the code, I made sure it was functional by running the code and making sure no errors occured.  I checked the security of the code by running the maven dependency check analysis, but as we were not prompted to refactor the code, I just created a mitigation plan within the vulnerability assessment report, detailing what common solutions are known to solve each vulnerability detected in the dependency check. 
+  
   Although I do not think I plan to show future employers this assignment, it is proof of my ability to run dependency check analysis on code and write up a vulnerability assessment report based on the programs functionality and the results of the dependency check.
